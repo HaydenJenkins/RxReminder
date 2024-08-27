@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>RxReminder App</Text>
+      <Text>isaac permison test</Text>
       <StatusBar style="auto" />
     </View>
   );
