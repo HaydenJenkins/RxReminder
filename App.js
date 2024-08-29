@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
   },
   title: {
     color: 'orange',
-    fontSize: '30px',
+    fontSize: 30,
     fontWeight: 'bold',
   },
 });
